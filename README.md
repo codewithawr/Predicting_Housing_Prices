@@ -3,7 +3,7 @@
 
 [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview) place where i found the data-set.
 
-[Data Description](https://github.com/codewithawr/Predicting_Housing_Prices/blob/main/Data_Explaing.md) file will help you understande the data.
+[Data Description](/Data_Explaing.md) file will help you understande the data.
 
 ## Repository Overview
 
